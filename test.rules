@@ -1,0 +1,59 @@
+alert http any any -> any 80 (msg:"HTTP GET request to gilgil.net"; http.method; content:"GET"; http.host; content:"gilgil.net"; sid:10001; rev:1;)
+
+alert http any any -> any 80 (msg:"HTTP GET request to netflix.com"; http.method; content:"GET"; http.host; content:"netflix.com"; sid:10002; rev:1;)
+alert tls any any -> any 443 (msg:"TLS handshake to netflix.com"; tls.sni; content:"netflix.com"; sid:10003; rev:1;)
+
+alert http any any -> any 80 (msg:"HTTP GET request to daum.net"; http.method; content:"GET"; http.host; content:"daum.net"; sid:10004; rev:1;)
+alert tls any any -> any 443 (msg:"TLS handshake to daum.net"; tls.sni; content:"daum.net"; sid:10005; rev:1;)
+
+alert http any any -> any 80 (msg:"HTTP GET request to naver.com"; http.method; content:"GET"; http.host; content:"naver.com"; sid:10006; rev:1;)
+alert tls any any -> any 443 (msg:"TLS handshake to naver.com"; tls.sni; content:"naver.com"; sid:10007; rev:1;)
+
+alert http any any -> any 80 (msg:"HTTP GET request to google.com"; http.method; content:"GET"; http.host; content:"google.com"; sid:10008; rev:1;)
+alert tls any any -> any 443 (msg:"TLS handshake to google.com"; tls.sni; content:"google.com"; sid:10009; rev:1;)
+
+alert http any any -> any 80 (msg:"HTTP GET request to youtube.com"; http.method; content:"GET"; http.host; content:"youtube.com"; sid:10010; rev:1;)
+alert tls any any -> any 443 (msg:"TLS handshake to youtube.com"; tls.sni; content:"youtube.com"; sid:10011; rev:1;)
+
+alert http any any -> any 80 (msg:"HTTP GET request to facebook.com"; http.method; content:"GET"; http.host; content:"facebook.com"; sid:10012; rev:1;)
+alert tls any any -> any 443 (msg:"TLS handshake to facebook.com"; tls.sni; content:"facebook.com"; sid:10013; rev:1;)
+
+alert http any any -> any 80 (msg:"HTTP GET request to twitter.com"; http.method; content:"GET"; http.host; content:"twitter.com"; sid:10014; rev:1;)
+alert tls any any -> any 443 (msg:"TLS handshake to twitter.com"; tls.sni; content:"twitter.com"; sid:10015; rev:1;)
+
+alert http any any -> any 80 (msg:"HTTP GET request to instagram.com"; http.method; content:"GET"; http.host; content:"instagram.com"; sid:10016; rev:1;)
+alert tls any any -> any 443 (msg:"TLS handshake to instagram.com"; tls.sni; content:"instagram.com"; sid:10017; rev:1;)
+
+alert http any any -> any 80 (msg:"HTTP GET request to tiktok.com"; http.method; content:"GET"; http.host; content:"tiktok.com"; sid:10018; rev:1;)
+alert tls any any -> any 443 (msg:"TLS handshake to tiktok.com"; tls.sni; content:"tiktok.com"; sid:10019; rev:1;)
+
+alert http any any -> any 80 (msg:"HTTP GET request to reddit.com"; http.method; content:"GET"; http.host; content:"reddit.com"; sid:10020; rev:1;)
+alert tls any any -> any 443 (msg:"TLS handshake to reddit.com"; tls.sni; content:"reddit.com"; sid:10021; rev:1;)
+
+alert http any any -> any 80 (msg:"HTTP GET request to amazon.com"; http.method; content:"GET"; http.host; content:"amazon.com"; sid:10022; rev:1;)
+alert tls any any -> any 443 (msg:"TLS handshake to amazon.com"; tls.sni; content:"amazon.com"; sid:10023; rev:1;)
+
+alert http any any -> any 80 (msg:"HTTP GET request to apple.com"; http.method; content:"GET"; http.host; content:"apple.com"; sid:10024; rev:1;)
+alert tls any any -> any 443 (msg:"TLS handshake to apple.com"; tls.sni; content:"apple.com"; sid:10025; rev:1;)
+
+alert http any any -> any 80 (msg:"HTTP GET request to microsoft.com"; http.method; content:"GET"; http.host; content:"microsoft.com"; sid:10026; rev:1;)
+alert tls any any -> any 443 (msg:"TLS handshake to microsoft.com"; tls.sni; content:"microsoft.com"; sid:10027; rev:1;)
+
+alert http any any -> any 80 (msg:"HTTP GET request to github.com"; http.method; content:"GET"; http.host; content:"github.com"; sid:10028; rev:1;)
+alert tls any any -> any 443 (msg:"TLS handshake to github.com"; tls.sni; content:"github.com"; sid:10029; rev:1;)
+
+alert http any any -> any 80 (msg:"HTTP GET request to stackoverflow.com"; http.method; content:"GET"; http.host; content:"stackoverflow.com"; sid:10030; rev:1;)
+alert tls any any -> any 443 (msg:"TLS handshake to stackoverflow.com"; tls.sni; content:"stackoverflow.com"; sid:10031; rev:1;)
+
+alert http any any -> any 80 (msg:"HTTP GET request to linkedin.com"; http.method; content:"GET"; http.host; content:"linkedin.com"; sid:10032; rev:1;)
+alert tls any any -> any 443 (msg:"TLS handshake to linkedin.com"; tls.sni; content:"linkedin.com"; sid:10033; rev:1;)
+
+alert http any any -> any 80 (msg:"HTTP GET request to bing.com"; http.method; content:"GET"; http.host; content:"bing.com"; sid:10034; rev:1;)
+alert tls any any -> any 443 (msg:"TLS handshake to bing.com"; tls.sni; content:"bing.com"; sid:10035; rev:1;)
+
+alert http any any -> any 80 (msg:"HTTP GET request to dropbox.com"; http.method; content:"GET"; http.host; content:"dropbox.com"; sid:10036; rev:1;)
+alert tls any any -> any 443 (msg:"TLS handshake to dropbox.com"; tls.sni; content:"dropbox.com"; sid:10037; rev:1;)
+
+alert http any any -> any 80 (msg:"HTTP GET request to adobe.com"; http.method; content:"GET"; http.host; content:"adobe.com"; sid:10038; rev:1;)
+alert tls any any -> any 443 (msg:"TLS handshake to adobe.com"; tls.sni; content:"adobe.com"; sid:10039; rev:1;)
+

@@ -1,0 +1,189 @@
+04/23/2025-04:23:40.351540  [**] [1:10001:1] HTTP GET request to gilgil.net [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:55314 -> 110.11.116.252:80
+04/23/2025-04:23:40.654442  [**] [1:10001:1] HTTP GET request to gilgil.net [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:55322 -> 110.11.116.252:80
+04/23/2025-04:23:40.892605  [**] [1:10001:1] HTTP GET request to gilgil.net [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:55300 -> 110.11.116.252:80
+04/23/2025-04:23:41.543453  [**] [1:10001:1] HTTP GET request to gilgil.net [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:55314 -> 110.11.116.252:80
+04/23/2025-04:23:41.616424  [**] [1:10001:1] HTTP GET request to gilgil.net [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:55300 -> 110.11.116.252:80
+04/23/2025-04:23:41.631380  [**] [1:10001:1] HTTP GET request to gilgil.net [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:55328 -> 110.11.116.252:80
+04/23/2025-04:23:41.635765  [**] [1:10001:1] HTTP GET request to gilgil.net [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:55350 -> 110.11.116.252:80
+04/23/2025-04:23:41.646264  [**] [1:10001:1] HTTP GET request to gilgil.net [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:55314 -> 110.11.116.252:80
+04/23/2025-04:23:41.660570  [**] [1:10001:1] HTTP GET request to gilgil.net [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:55362 -> 110.11.116.252:80
+04/23/2025-04:23:41.671036  [**] [1:10001:1] HTTP GET request to gilgil.net [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:55340 -> 110.11.116.252:80
+04/23/2025-04:23:41.689522  [**] [1:10001:1] HTTP GET request to gilgil.net [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:55350 -> 110.11.116.252:80
+04/23/2025-04:23:41.737379  [**] [1:10001:1] HTTP GET request to gilgil.net [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:55314 -> 110.11.116.252:80
+04/23/2025-04:23:41.737526  [**] [1:10001:1] HTTP GET request to gilgil.net [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:55362 -> 110.11.116.252:80
+04/23/2025-04:23:41.751372  [**] [1:10001:1] HTTP GET request to gilgil.net [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:55340 -> 110.11.116.252:80
+04/23/2025-04:23:41.751424  [**] [1:10001:1] HTTP GET request to gilgil.net [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:55300 -> 110.11.116.252:80
+04/23/2025-04:23:41.753322  [**] [1:10001:1] HTTP GET request to gilgil.net [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:55314 -> 110.11.116.252:80
+04/23/2025-04:23:41.753771  [**] [1:10001:1] HTTP GET request to gilgil.net [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:55362 -> 110.11.116.252:80
+04/23/2025-04:23:41.756280  [**] [1:10001:1] HTTP GET request to gilgil.net [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:55328 -> 110.11.116.252:80
+04/23/2025-04:23:41.758335  [**] [1:10001:1] HTTP GET request to gilgil.net [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:55350 -> 110.11.116.252:80
+04/23/2025-04:23:41.775643  [**] [1:10001:1] HTTP GET request to gilgil.net [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:55328 -> 110.11.116.252:80
+04/23/2025-04:23:41.784537  [**] [1:10001:1] HTTP GET request to gilgil.net [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:55328 -> 110.11.116.252:80
+04/23/2025-04:23:41.805375  [**] [1:10001:1] HTTP GET request to gilgil.net [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:55314 -> 110.11.116.252:80
+04/23/2025-04:23:41.805523  [**] [1:10001:1] HTTP GET request to gilgil.net [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:55362 -> 110.11.116.252:80
+04/23/2025-04:23:41.805506  [**] [1:10001:1] HTTP GET request to gilgil.net [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:55340 -> 110.11.116.252:80
+04/23/2025-04:23:41.813469  [**] [1:10001:1] HTTP GET request to gilgil.net [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:55300 -> 110.11.116.252:80
+04/23/2025-04:23:53.319904  [**] [1:10003:1] TLS handshake to netflix.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:53272 -> 44.242.60.85:443
+04/23/2025-04:23:54.140825  [**] [1:10003:1] TLS handshake to netflix.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:35332 -> 44.240.158.19:443
+04/23/2025-04:23:55.489342  [**] [1:10003:1] TLS handshake to netflix.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:49616 -> 44.229.122.169:443
+04/23/2025-04:23:55.498302  [**] [1:10003:1] TLS handshake to netflix.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:49632 -> 44.229.122.169:443
+04/23/2025-04:23:57.448153  [**] [1:10003:1] TLS handshake to netflix.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:49642 -> 44.229.122.169:443
+04/23/2025-04:23:57.514823  [**] [1:10003:1] TLS handshake to netflix.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:57830 -> 52.12.134.97:443
+04/23/2025-04:23:57.515876  [**] [1:10003:1] TLS handshake to netflix.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:57826 -> 52.12.134.97:443
+04/23/2025-04:23:57.552524  [**] [1:10019:1] TLS handshake to tiktok.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:34884 -> 104.70.122.215:443
+04/23/2025-04:24:03.954130  [**] [1:10004:1] HTTP GET request to daum.net [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:59576 -> 121.53.105.193:80
+04/23/2025-04:24:03.979419  [**] [1:10005:1] TLS handshake to daum.net [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:46766 -> 121.53.105.193:443
+04/23/2025-04:24:04.109034  [**] [1:10005:1] TLS handshake to daum.net [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:53994 -> 211.249.220.24:443
+04/23/2025-04:24:04.791793  [**] [1:10005:1] TLS handshake to daum.net [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:58904 -> 211.249.220.83:443
+04/23/2025-04:24:05.111452  [**] [1:10005:1] TLS handshake to daum.net [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:46142 -> 203.133.167.14:443
+04/23/2025-04:24:05.111488  [**] [1:10005:1] TLS handshake to daum.net [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:46126 -> 203.133.167.14:443
+04/23/2025-04:24:05.288949  [**] [1:10005:1] TLS handshake to daum.net [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:42320 -> 211.183.211.31:443
+04/23/2025-04:24:05.743057  [**] [1:10005:1] TLS handshake to daum.net [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:47324 -> 121.53.105.246:443
+04/23/2025-04:24:05.754863  [**] [1:10005:1] TLS handshake to daum.net [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:37404 -> 203.133.167.14:443
+04/23/2025-04:24:05.800537  [**] [1:10005:1] TLS handshake to daum.net [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:37408 -> 203.133.167.14:443
+04/23/2025-04:24:05.895470  [**] [1:10005:1] TLS handshake to daum.net [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:48778 -> 121.53.93.48:443
+04/23/2025-04:24:05.900044  [**] [1:10005:1] TLS handshake to daum.net [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:41848 -> 121.53.105.232:443
+04/23/2025-04:24:05.906861  [**] [1:10005:1] TLS handshake to daum.net [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:41840 -> 121.53.105.232:443
+04/23/2025-04:24:06.187546  [**] [1:10005:1] TLS handshake to daum.net [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:37410 -> 203.133.167.14:443
+04/23/2025-04:24:06.643854  [**] [1:10005:1] TLS handshake to daum.net [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:37412 -> 203.133.167.14:443
+04/23/2025-04:24:07.681617  [**] [1:10005:1] TLS handshake to daum.net [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:40408 -> 121.53.104.203:443
+04/23/2025-04:24:08.553888  [**] [1:10009:1] TLS handshake to google.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:34038 -> 142.250.198.4:443
+04/23/2025-04:24:08.553931  [**] [1:10009:1] TLS handshake to google.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:34044 -> 142.250.198.4:443
+04/23/2025-04:24:16.029370  [**] [1:10006:1] HTTP GET request to naver.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:59970 -> 223.130.200.219:80
+04/23/2025-04:24:16.070394  [**] [1:10007:1] TLS handshake to naver.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:56766 -> 223.130.192.248:443
+04/23/2025-04:24:17.449040  [**] [1:10007:1] TLS handshake to naver.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:57230 -> 110.93.154.77:443
+04/23/2025-04:24:17.458498  [**] [1:10007:1] TLS handshake to naver.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:51490 -> 110.93.151.132:443
+04/23/2025-04:24:17.459074  [**] [1:10007:1] TLS handshake to naver.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:60444 -> 110.93.154.72:443
+04/23/2025-04:24:17.487253  [**] [1:10007:1] TLS handshake to naver.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:48994 -> 61.247.194.51:443
+04/23/2025-04:24:17.513392  [**] [1:10007:1] TLS handshake to naver.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:51376 -> 110.93.154.79:443
+04/23/2025-04:24:18.111082  [**] [1:10007:1] TLS handshake to naver.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:38426 -> 223.130.192.205:443
+04/23/2025-04:24:18.148577  [**] [1:10007:1] TLS handshake to naver.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:50462 -> 202.179.178.29:443
+04/23/2025-04:24:18.972124  [**] [1:10007:1] TLS handshake to naver.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:56406 -> 210.89.168.50:443
+04/23/2025-04:24:19.356720  [**] [1:10007:1] TLS handshake to naver.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:38450 -> 223.130.192.205:443
+04/23/2025-04:24:19.356357  [**] [1:10007:1] TLS handshake to naver.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:38438 -> 223.130.192.205:443
+04/23/2025-04:24:27.293443  [**] [1:10011:1] TLS handshake to youtube.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:58056 -> 142.250.199.110:443
+04/23/2025-04:24:27.473528  [**] [1:10011:1] TLS handshake to youtube.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:35854 -> 142.250.207.14:443
+04/23/2025-04:24:34.341991  [**] [1:10013:1] TLS handshake to facebook.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:58592 -> 31.13.76.35:443
+04/23/2025-04:24:34.366765  [**] [1:10013:1] TLS handshake to facebook.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:58608 -> 31.13.76.35:443
+04/23/2025-04:24:34.704634  [**] [1:10013:1] TLS handshake to facebook.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:58610 -> 31.13.76.35:443
+04/23/2025-04:24:41.064040  [**] [1:10015:1] TLS handshake to twitter.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:59462 -> 172.66.0.227:443
+04/23/2025-04:24:41.064102  [**] [1:10015:1] TLS handshake to twitter.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:59474 -> 172.66.0.227:443
+04/23/2025-04:24:41.724637  [**] [1:10015:1] TLS handshake to twitter.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:59476 -> 172.66.0.227:443
+04/23/2025-04:24:43.437595  [**] [1:10009:1] TLS handshake to google.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:54218 -> 142.251.8.84:443
+04/23/2025-04:24:43.596840  [**] [1:10025:1] TLS handshake to apple.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:54014 -> 23.42.211.65:443
+04/23/2025-04:24:47.588154  [**] [1:10017:1] TLS handshake to instagram.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:56782 -> 31.13.76.174:443
+04/23/2025-04:24:47.989222  [**] [1:10009:1] TLS handshake to google.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:50498 -> 172.217.31.142:443
+04/23/2025-04:24:56.688932  [**] [1:10018:1] HTTP GET request to tiktok.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:50998 -> 23.201.35.49:80
+04/23/2025-04:24:56.724627  [**] [1:10018:1] HTTP GET request to tiktok.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:57936 -> 203.251.233.178:80
+04/23/2025-04:24:56.748689  [**] [1:10019:1] TLS handshake to tiktok.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:54208 -> 203.251.233.200:443
+04/23/2025-04:24:58.744630  [**] [1:10019:1] TLS handshake to tiktok.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:50602 -> 203.251.233.187:443
+04/23/2025-04:24:58.744846  [**] [1:10019:1] TLS handshake to tiktok.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:50592 -> 203.251.233.187:443
+04/23/2025-04:24:59.570053  [**] [1:10019:1] TLS handshake to tiktok.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:32960 -> 23.205.46.179:443
+04/23/2025-04:24:59.846205  [**] [1:10019:1] TLS handshake to tiktok.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:58556 -> 104.70.122.215:443
+04/23/2025-04:25:00.810498  [**] [1:10019:1] TLS handshake to tiktok.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:47704 -> 23.44.173.43:443
+04/23/2025-04:25:05.709352  [**] [1:10021:1] TLS handshake to reddit.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:50472 -> 151.101.193.140:443
+04/23/2025-04:25:05.823733  [**] [1:10019:1] TLS handshake to tiktok.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:35004 -> 23.44.173.43:443
+04/23/2025-04:25:05.846243  [**] [1:10019:1] TLS handshake to tiktok.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:35014 -> 23.44.173.43:443
+04/23/2025-04:25:05.851685  [**] [1:10021:1] TLS handshake to reddit.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:35592 -> 146.75.49.140:443
+04/23/2025-04:25:07.193218  [**] [1:10021:1] TLS handshake to reddit.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:35676 -> 146.75.49.140:443
+04/23/2025-04:25:07.308200  [**] [1:10009:1] TLS handshake to google.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:42940 -> 142.251.8.84:443
+04/23/2025-04:25:07.308950  [**] [1:10009:1] TLS handshake to google.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:41308 -> 172.217.174.100:443
+04/23/2025-04:25:07.568076  [**] [1:10021:1] TLS handshake to reddit.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:35700 -> 146.75.49.140:443
+04/23/2025-04:25:14.715677  [**] [1:10022:1] HTTP GET request to amazon.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:52830 -> 54.239.28.85:80
+04/23/2025-04:25:15.231897  [**] [1:10023:1] TLS handshake to amazon.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:37378 -> 205.251.242.103:443
+04/23/2025-04:25:15.434198  [**] [1:10023:1] TLS handshake to amazon.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:37392 -> 205.251.242.103:443
+04/23/2025-04:25:15.681357  [**] [1:10023:1] TLS handshake to amazon.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:53320 -> 13.225.110.99:443
+04/23/2025-04:25:16.146795  [**] [1:10023:1] TLS handshake to amazon.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:38310 -> 203.251.233.200:443
+04/23/2025-04:25:16.153515  [**] [1:10023:1] TLS handshake to amazon.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:48324 -> 203.251.233.201:443
+04/23/2025-04:25:16.153751  [**] [1:10023:1] TLS handshake to amazon.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:48330 -> 203.251.233.201:443
+04/23/2025-04:25:16.156626  [**] [1:10023:1] TLS handshake to amazon.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:38312 -> 203.251.233.200:443
+04/23/2025-04:25:16.195999  [**] [1:10009:1] TLS handshake to google.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:53178 -> 216.58.220.142:443
+04/23/2025-04:25:16.322034  [**] [1:10023:1] TLS handshake to amazon.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:38316 -> 203.251.233.200:443
+04/23/2025-04:25:16.515472  [**] [1:10023:1] TLS handshake to amazon.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:51378 -> 34.236.3.186:443
+04/23/2025-04:25:17.945244  [**] [1:10023:1] TLS handshake to amazon.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:47122 -> 44.215.132.248:443
+04/23/2025-04:25:18.023979  [**] [1:10023:1] TLS handshake to amazon.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:43904 -> 44.215.142.139:443
+04/23/2025-04:25:18.230750  [**] [1:10023:1] TLS handshake to amazon.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:49610 -> 44.215.117.206:443
+04/23/2025-04:25:20.391743  [**] [1:10013:1] TLS handshake to facebook.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:36656 -> 31.13.76.35:443
+04/23/2025-04:25:21.007798  [**] [1:10023:1] TLS handshake to amazon.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:47126 -> 44.215.132.248:443
+04/23/2025-04:25:21.014438  [**] [1:10023:1] TLS handshake to amazon.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:47140 -> 44.215.132.248:443
+04/23/2025-04:25:22.825987  [**] [1:10024:1] HTTP GET request to apple.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:58034 -> 17.253.144.10:80
+04/23/2025-04:25:22.850880  [**] [1:10025:1] TLS handshake to apple.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:46880 -> 23.52.32.170:443
+04/23/2025-04:25:23.396208  [**] [1:10023:1] TLS handshake to amazon.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:47160 -> 44.215.132.248:443
+04/23/2025-04:25:23.430473  [**] [1:10023:1] TLS handshake to amazon.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:47176 -> 44.215.132.248:443
+04/23/2025-04:25:24.150458  [**] [1:10025:1] TLS handshake to apple.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:46342 -> 17.8.132.116:443
+04/23/2025-04:25:24.162070  [**] [1:10025:1] TLS handshake to apple.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:36246 -> 17.8.132.9:443
+04/23/2025-04:25:30.911909  [**] [1:10026:1] HTTP GET request to microsoft.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:57866 -> 13.107.246.59:80
+04/23/2025-04:25:30.942283  [**] [1:10027:1] TLS handshake to microsoft.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:36780 -> 13.107.246.59:443
+04/23/2025-04:25:30.988065  [**] [1:10027:1] TLS handshake to microsoft.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:47064 -> 23.52.33.58:443
+04/23/2025-04:25:31.394176  [**] [1:10027:1] TLS handshake to microsoft.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:51886 -> 13.107.246.74:443
+04/23/2025-04:25:31.404774  [**] [1:10027:1] TLS handshake to microsoft.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:37438 -> 23.201.35.128:443
+04/23/2025-04:25:31.409375  [**] [1:10019:1] TLS handshake to tiktok.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:36076 -> 104.70.122.215:443
+04/23/2025-04:25:31.410176  [**] [1:10035:1] TLS handshake to bing.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:33054 -> 150.171.27.10:443
+04/23/2025-04:25:31.497610  [**] [1:10027:1] TLS handshake to microsoft.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:37444 -> 23.201.35.128:443
+04/23/2025-04:25:31.508626  [**] [1:10027:1] TLS handshake to microsoft.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:49942 -> 23.197.226.104:443
+04/23/2025-04:25:31.531008  [**] [1:10027:1] TLS handshake to microsoft.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:49980 -> 23.197.226.104:443
+04/23/2025-04:25:31.531613  [**] [1:10027:1] TLS handshake to microsoft.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:49958 -> 23.197.226.104:443
+04/23/2025-04:25:31.531729  [**] [1:10027:1] TLS handshake to microsoft.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:49990 -> 23.197.226.104:443
+04/23/2025-04:25:31.531539  [**] [1:10027:1] TLS handshake to microsoft.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:49970 -> 23.197.226.104:443
+04/23/2025-04:25:31.569671  [**] [1:10027:1] TLS handshake to microsoft.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:49994 -> 23.197.226.104:443
+04/23/2025-04:25:31.606699  [**] [1:10027:1] TLS handshake to microsoft.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:43382 -> 23.77.14.109:443
+04/23/2025-04:25:31.671972  [**] [1:10027:1] TLS handshake to microsoft.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:35318 -> 20.72.243.62:443
+04/23/2025-04:25:32.130176  [**] [1:10027:1] TLS handshake to microsoft.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:32920 -> 23.219.73.192:443
+04/23/2025-04:25:32.348642  [**] [1:10033:1] TLS handshake to linkedin.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:48942 -> 150.171.22.12:443
+04/23/2025-04:25:32.395639  [**] [1:10027:1] TLS handshake to microsoft.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:40584 -> 63.140.50.229:443
+04/23/2025-04:25:32.879143  [**] [1:10033:1] TLS handshake to linkedin.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:48958 -> 150.171.22.12:443
+04/23/2025-04:25:33.205721  [**] [1:10013:1] TLS handshake to facebook.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:35682 -> 31.13.76.35:443
+04/23/2025-04:25:33.237358  [**] [1:10035:1] TLS handshake to bing.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:33070 -> 150.171.27.10:443
+04/23/2025-04:25:33.274769  [**] [1:10027:1] TLS handshake to microsoft.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:42944 -> 51.104.15.253:443
+04/23/2025-04:25:33.281820  [**] [1:10027:1] TLS handshake to microsoft.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:42946 -> 51.104.15.253:443
+04/23/2025-04:25:33.427124  [**] [1:10013:1] TLS handshake to facebook.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:35698 -> 31.13.76.35:443
+04/23/2025-04:25:33.430456  [**] [1:10013:1] TLS handshake to facebook.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:35688 -> 31.13.76.35:443
+04/23/2025-04:25:33.430383  [**] [1:10013:1] TLS handshake to facebook.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:35696 -> 31.13.76.35:443
+04/23/2025-04:25:33.432793  [**] [1:10013:1] TLS handshake to facebook.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:35700 -> 31.13.76.35:443
+04/23/2025-04:25:33.953780  [**] [1:10009:1] TLS handshake to google.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:60712 -> 142.250.199.100:443
+04/23/2025-04:25:42.843076  [**] [1:10029:1] TLS handshake to github.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:57360 -> 20.200.245.247:443
+04/23/2025-04:25:42.861515  [**] [1:10029:1] TLS handshake to github.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:57374 -> 20.200.245.247:443
+04/23/2025-04:25:44.290300  [**] [1:10023:1] TLS handshake to amazon.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:57590 -> 44.215.143.203:443
+04/23/2025-04:25:45.075502  [**] [1:10029:1] TLS handshake to github.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:60730 -> 140.82.114.21:443
+04/23/2025-04:25:45.312897  [**] [1:10029:1] TLS handshake to github.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:60734 -> 140.82.114.21:443
+04/23/2025-04:25:45.705798  [**] [1:10029:1] TLS handshake to github.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:34478 -> 20.200.245.245:443
+04/23/2025-04:25:54.100716  [**] [1:10030:1] HTTP GET request to stackoverflow.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:46182 -> 104.18.32.7:80
+04/23/2025-04:25:54.134997  [**] [1:10031:1] TLS handshake to stackoverflow.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:56896 -> 172.64.155.249:443
+04/23/2025-04:25:55.779452  [**] [1:10009:1] TLS handshake to google.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:43566 -> 108.177.97.84:443
+04/23/2025-04:25:58.268549  [**] [1:10009:1] TLS handshake to google.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:52968 -> 142.251.42.196:443
+04/23/2025-04:26:03.447673  [**] [1:10032:1] HTTP GET request to linkedin.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:38454 -> 150.171.22.12:80
+04/23/2025-04:26:03.477572  [**] [1:10033:1] TLS handshake to linkedin.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:59438 -> 150.171.22.12:443
+04/23/2025-04:26:03.952619  [**] [1:10009:1] TLS handshake to google.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:43920 -> 142.251.222.46:443
+04/23/2025-04:26:04.264198  [**] [1:10033:1] TLS handshake to linkedin.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:38754 -> 146.75.51.42:443
+04/23/2025-04:26:04.463455  [**] [1:10033:1] TLS handshake to linkedin.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:50654 -> 144.2.9.1:443
+04/23/2025-04:26:04.776895  [**] [1:10009:1] TLS handshake to google.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:48188 -> 142.251.8.84:443
+04/23/2025-04:26:04.819207  [**] [1:10009:1] TLS handshake to google.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:48190 -> 142.251.8.84:443
+04/23/2025-04:26:05.889817  [**] [1:10013:1] TLS handshake to facebook.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:33146 -> 31.13.76.35:443
+04/23/2025-04:26:09.785809  [**] [1:10035:1] TLS handshake to bing.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:60848 -> 150.171.28.10:443
+04/23/2025-04:26:09.833561  [**] [1:10035:1] TLS handshake to bing.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:40228 -> 23.65.188.73:443
+04/23/2025-04:26:10.221234  [**] [1:10035:1] TLS handshake to bing.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:54282 -> 203.251.233.35:443
+04/23/2025-04:26:10.221300  [**] [1:10035:1] TLS handshake to bing.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:54266 -> 203.251.233.35:443
+04/23/2025-04:26:10.222213  [**] [1:10035:1] TLS handshake to bing.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:54258 -> 203.251.233.35:443
+04/23/2025-04:26:10.260035  [**] [1:10009:1] TLS handshake to google.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:51380 -> 172.217.175.46:443
+04/23/2025-04:26:10.271568  [**] [1:10009:1] TLS handshake to google.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:51372 -> 172.217.175.46:443
+04/23/2025-04:26:11.795593  [**] [1:10035:1] TLS handshake to bing.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:35732 -> 150.171.27.10:443
+04/23/2025-04:26:12.045430  [**] [1:10035:1] TLS handshake to bing.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:35736 -> 150.171.27.10:443
+04/23/2025-04:26:12.160639  [**] [1:10033:1] TLS handshake to linkedin.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:41268 -> 150.171.22.12:443
+04/23/2025-04:26:12.507046  [**] [1:10035:1] TLS handshake to bing.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:45538 -> 23.65.188.97:443
+04/23/2025-04:26:15.204977  [**] [1:10037:1] TLS handshake to dropbox.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:51378 -> 162.125.248.18:443
+04/23/2025-04:26:15.216988  [**] [1:10037:1] TLS handshake to dropbox.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:51370 -> 162.125.248.18:443
+04/23/2025-04:26:15.427134  [**] [1:10037:1] TLS handshake to dropbox.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:34682 -> 162.125.84.18:443
+04/23/2025-04:26:15.951705  [**] [1:10009:1] TLS handshake to google.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:33830 -> 142.251.8.84:443
+04/23/2025-04:26:16.728344  [**] [1:10037:1] TLS handshake to dropbox.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:40084 -> 18.238.217.13:443
+04/23/2025-04:26:16.733983  [**] [1:10037:1] TLS handshake to dropbox.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:40098 -> 18.238.217.13:443
+04/23/2025-04:26:16.973797  [**] [1:10037:1] TLS handshake to dropbox.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:41100 -> 162.125.8.20:443
+04/23/2025-04:26:17.289548  [**] [1:10037:1] TLS handshake to dropbox.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:36144 -> 99.86.147.29:443
+04/23/2025-04:26:18.001977  [**] [1:10037:1] TLS handshake to dropbox.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:56798 -> 3.163.158.106:443
+04/23/2025-04:26:19.151522  [**] [1:10015:1] TLS handshake to twitter.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:52278 -> 146.75.112.157:443
+04/23/2025-04:26:21.174174  [**] [1:10038:1] HTTP GET request to adobe.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:42122 -> 23.202.34.162:80
+04/23/2025-04:26:21.290419  [**] [1:10039:1] TLS handshake to adobe.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:49472 -> 23.33.184.232:443
+04/23/2025-04:26:21.463492  [**] [1:10039:1] TLS handshake to adobe.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:42696 -> 203.251.233.114:443
+04/23/2025-04:26:21.836243  [**] [1:10009:1] TLS handshake to google.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:41456 -> 142.251.42.206:443
+04/23/2025-04:26:21.962355  [**] [1:10039:1] TLS handshake to adobe.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:47474 -> 104.18.32.195:443
+04/23/2025-04:26:21.972533  [**] [1:10039:1] TLS handshake to adobe.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:47470 -> 104.18.32.195:443
+04/23/2025-04:26:22.865423  [**] [1:10039:1] TLS handshake to adobe.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.229.129:58354 -> 23.200.152.174:443
